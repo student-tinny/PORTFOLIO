@@ -142,9 +142,9 @@ header nav a:hover {
 
 .about-p {
 
-    width: 37rem;
-    height: 17rem;
-    font-size: 22px;
+    max-width: 37rem;
+    font-size: 13px;
+    line-height: 1.6;
     padding: 1rem;
 
 }
@@ -271,4 +271,5 @@ footer {
     padding: 15px;
     background: #08343B;
     color: white;
+
 }
